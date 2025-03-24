@@ -32,3 +32,21 @@ footer {
     color: white;
     padding: 10px;
 }
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px o;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+}
+th {
+    background-colour: #ffcc00;
+    colour: #333;
+    font-weight: bold;
+}
+td {
+    background-colour: #fff;
+    colour: #000;
